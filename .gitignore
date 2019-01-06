@@ -394,3 +394,6 @@ pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/app_error.o
 pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/app_error_handler_gcc.d
 pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/app_error_handler_gcc.o
 pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/app_error_weak.d
+pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/ble_hts.d
+pca10040/s132/ses/Output/ble_app_hrs_pca10040_s132 Release/Obj/ble_hts.o
+main.c.bak
